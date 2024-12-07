@@ -1,3 +1,3 @@
-### **Name:** *Jamiel Kyne Pinca* 
-<br>
+# Name: Jamiel Kyne Pinca
+</br>
 
